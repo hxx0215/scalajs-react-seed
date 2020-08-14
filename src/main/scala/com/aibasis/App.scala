@@ -1,6 +1,5 @@
 package com.aibasis
 
-import org.scalajs.dom.html
 import org.scalajs.dom.document
 import japgolly.scalajs.react.vdom.html_<^._
 
